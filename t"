@@ -1,0 +1,12 @@
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Marina Wang
+user.email=marinawang22@gmail.com
+core.bare=false
+core.repositoryformatversion=0
+core.filemode=true
+core.logallrefupdates=true
+remote.origin.url=https://github.com/marinawangg/finalproject.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
